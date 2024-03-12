@@ -1,4 +1,3 @@
 # WEATHER_API
-https://weathereportapi-Nandini Reddy.netlify.app/for check out the solution
-
+https://main--nandinireddy23.netlify.app/Check out the Working of the project.
 
