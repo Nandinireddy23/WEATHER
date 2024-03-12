@@ -1,3 +1,4 @@
 # WEATHER_API
-https://weathereportapi-Nandini Reddy.netlify.app/for Bharat Intern by using web development
+https://weathereportapi-Nandini Reddy.netlify.app/for check out the solution
+
 
